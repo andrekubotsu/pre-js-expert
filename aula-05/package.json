@@ -1,0 +1,16 @@
+{
+  "name": "aula-05-pre",
+  "version": "1.0.0",
+  "description": "- comandos nativos do node.js e docker (3 formas de controlar)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

@@ -1,0 +1,15 @@
+[submodule "fluentsql-jest-tdd-yt"]
+	path = fluentsql-jest-tdd-yt
+	url = https://github.com/ErickWendel/fluentsql-jest-tdd-yt
+[submodule "01-fluentsql-jest-tdd-yt"]
+	path = 01-fluentsql-jest-tdd-yt
+	url = https://github.com/ErickWendel/fluentsql-jest-tdd-yt
+[submodule "02-isomorphic-js-esmodules"]
+	path = 02-isomorphic-js-esmodules
+	url = https://github.com/ErickWendel/isomorphic-js-esmodules-yt
+[submodule "03-map-set-esmodules-yt"]
+	path = 03-map-set-esmodules-yt
+	url = https://github.com/ErickWendel/map-set-esmodules-yt
+[submodule "cli-commands-yt"]
+	path = cli-commands-yt
+	url = https://github.com/ErickWendel/cli-commands-yt.git
